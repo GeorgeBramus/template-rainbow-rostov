@@ -1,0 +1,27 @@
+@import "inc/material_design_colors"
+
+@mixin my_color($name: pink, $level: 400, $property: color)
+  @each $key, $value in $colors
+    @if $key == '#{$name}#{$level}'
+      #{$property}: $value
+
+@mixin my_color_border($border: all, $weight: '1px', $type: solid, $color: grey, $level: 900)
+  @each $key, $value in $colors
+    @if $key == '#{$color}#{$level}'
+      @if $border == 'all'
+        border: #{$weight} #{$type} $value
+      @else
+        border-#{$border}: #{$weight} #{$type} $value
+
+// @mixin my_color($name: pink, $level: 400, $property: color)
+//   #{$property}: #{$name}#{$level}
+
+$shadowSmall: 0.1em 0.1em 0.05em rgba(0,0,0,.4)
+$shadowMiddle: 0.2em 0.2em 0.1em rgba(0,0,0,.6)
+$shadowLarge: 0.35em 0.35em 0.2em rgba(0,0,0,.6)
+
+$fontRoboto: 'Roboto', sans-serif
+$fontRobotoSlab: 'Roboto Slab', serif
+$fontRussoOne: 'Russo One', sans-serif
+
+$baseColor: indigo
