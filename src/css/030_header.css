@@ -1,18 +1,35 @@
 .main-header {
   margin-top: 2em;
-  margin-bottom: 2em;
-  background-image: url("/app/images/header/rainbow-opacity-50.png");
-  background-size: cover;
-  background-position: right;
-  background-repeat: no-repeat; }
-  .main-header .row .class-for-shadow img {
-    width: 100%;
-    height: 100%;
-    box-shadow: -0.3em 0 0.2em rgba(0, 0, 0, 0.25), 0.3em 0 0.2em rgba(0, 0, 0, 0.25); }
-  .main-header .row .class-for-shadow div {
-    position: absolute;
-    left: 0.65em;
-    top: 0.25em;
-    z-index: 50;
-    width: 100%;
-    height: 100%; }
+  margin-bottom: 2em; }
+  .main-header .cap {
+    background-image: url("/app/images/header/rainbow.jpg");
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat; }
+    .main-header .cap span {
+      display: inline-block;
+      padding: 0.5em 0.75em;
+      margin-right: 0.5em;
+      box-shadow: 0.1em 0.1em 0.05em rgba(0, 0, 0, 0.4);
+      font-size: 1.5em;
+      font-weight: bold;
+      color: Black;
+      font-family: "Roboto Slab", serif; }
+    .main-header .cap span.letter-1 {
+      transform: rotate(5deg);
+      background-color: #e57373; }
+    .main-header .cap span.letter-2 {
+      transform: rotate(-7deg);
+      background-color: #ffb74d; }
+    .main-header .cap span.letter-3 {
+      transform: rotate(3deg);
+      background-color: #ffeb3b; }
+    .main-header .cap span.letter-4 {
+      transform: rotate(-1deg);
+      background-color: #81c784; }
+    .main-header .cap span.letter-5 {
+      transform: rotate(7deg);
+      background-color: #29b6f6; }
+    .main-header .cap span.letter-6 {
+      transform: rotate(-8deg);
+      background-color: #2196f3; }

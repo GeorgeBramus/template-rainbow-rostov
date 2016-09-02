@@ -23,16 +23,14 @@
 
 <header class="main-header">
   <div class="row">
-    <div class="class-for-shadow small-12 columns">
-    <img src="app/images/header/rainbow.jpg" alt="РАДУГА Ростов-на-Дону Магазин игрушек">
+    <div class="cap small-12 columns">
 
-    <div>
-      <div class="row">
-        <div class="small-12 columns">
-          РАДУГА
-        </div>
-      </div>
-    </div>
+      <span class="letter-1">Р</span>
+      <span class="letter-2">А</span>
+      <span class="letter-3">Д</span>
+      <span class="letter-4">У</span>
+      <span class="letter-5">Г</span>
+      <span class="letter-6">А</span>
 
     </div>
   </div>
@@ -63,6 +61,6 @@
   <script src="bower_components/foundation/js/foundation.js" type="text/javascript"></script>
   <script src="bower_components/jquery-touchswipe/jquery.touchSwipe.min.js" type="text/javascript"></script>
   <script src="app/js/mySwipeTouchscreen.js" type="text/javascript"></script>
-  <script src="app/js/main.js" type="text/javascript"></script>
+  <script src="app/js/main.min.js" type="text/javascript"></script>
 </body>
 </html>

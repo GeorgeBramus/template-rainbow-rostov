@@ -1,0 +1,800 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"master",
+				"master_name"
+			],
+			[
+				"menu_p",
+				"menu_panel_display"
+			],
+			[
+				"mini",
+				"mini_page"
+			],
+			[
+				"div_",
+				"div_pause"
+			],
+			[
+				"active",
+				"active_element"
+			],
+			[
+				"h_",
+				"h_nav"
+			],
+			[
+				"wra",
+				"wrapper_cite"
+			],
+			[
+				"block",
+				"block_footer"
+			],
+			[
+				"h_block",
+				"h_block_footer"
+			],
+			[
+				"blok",
+				"block_header"
+			],
+			[
+				"h_b",
+				"h_block_content"
+			],
+			[
+				"serv",
+				"services_cover"
+			],
+			[
+				"user",
+				"user_first_name"
+			],
+			[
+				"user_",
+				"user_first_name"
+			],
+			[
+				"pati",
+				"patients"
+			],
+			[
+				"pa",
+				"patient"
+			],
+			[
+				"w",
+				"w_logo"
+			],
+			[
+				"logo",
+				"logo_company"
+			],
+			[
+				"lo",
+				"logo_simple"
+			],
+			[
+				"a",
+				"app/"
+			],
+			[
+				"da",
+				"data_href"
+			],
+			[
+				"window",
+				"window_height"
+			],
+			[
+				"bloc",
+				"block_header"
+			],
+			[
+				"h",
+				"h_window"
+			],
+			[
+				"pare",
+				"parent_padding"
+			],
+			[
+				"paren",
+				"parent_pading"
+			],
+			[
+				"parent",
+				"parent_width"
+			],
+			[
+				"parent_",
+				"parent_width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 2474,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/sass/020_general.sass",
+			"settings":
+			{
+				"buffer_size": 152,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/sass/030_header.sass",
+			"settings":
+			{
+				"buffer_size": 231,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/coffee/030_header.coffee",
+			"settings":
+			{
+				"buffer_size": 165,
+				"line_ending": "Unix",
+				"name": "cap = $ '.cap'"
+			}
+		},
+		{
+			"file": "src/sass/200_footer.sass",
+			"settings":
+			{
+				"buffer_size": 307,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 92.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/george/www/toys.template",
+		"/home/george/www/toys.template/src",
+		"/home/george/www/toys.template/src/js",
+		"/home/george/www/toys.template/src/js/coffee",
+		"/home/george/www/toys.template/src/sass"
+	],
+	"file_history":
+	[
+		"/home/george/www/toys.template/src/js/coffee/js/030_header.js",
+		"/home/george/www-passwords/GRANDMEAT",
+		"/home/george/www/password-and-other.sublime-project",
+		"/home/george/www/toys.template/src/sass/030_header.sass",
+		"/home/george/www/toys.template/src/sass/020_general.sass",
+		"/home/george/www/toys.template/src/sass/200_footer.sass",
+		"/home/george/www/toys.template/index.php",
+		"/tmp/fz3temp-1/Product.php",
+		"/tmp/fz3temp-1/product_page.blade.php",
+		"/tmp/fz3temp-1/for_admins.blade.php",
+		"/tmp/fz3temp-1/routes.php",
+		"/tmp/fz3temp-1/create_margin_form.blade.php",
+		"/tmp/fz3temp-1/Dealer.php",
+		"/tmp/fz3temp-1/DealerController.php",
+		"/tmp/fz3temp-1/Margin.php",
+		"/tmp/fz3temp-1/ProductController.php",
+		"/tmp/fz3temp-1/.gitattributes",
+		"/tmp/fz3temp-1/.gitignore",
+		"/home/george/www/toys.template/.gitignore",
+		"/home/george/www/toys.template/gulpfile.js",
+		"/home/george/www/toys.local/index.php",
+		"/home/george/www/toys.template/package.json",
+		"/home/george/.bashrc",
+		"/home/george/www/boss-relax.local/index.php",
+		"/home/george/www/gulp-exemple/index.html",
+		"/home/george/www/scomp1.local/index.php",
+		"/home/george/.bashrc~",
+		"/home/george/www/fullrange.local/package.json",
+		"/etc/hosts",
+		"/etc/apache2/sites-available/000-default.conf",
+		"/tmp/fz3temp-1/.htaccess.reserve",
+		"/tmp/fz3temp-1/config.inc.php",
+		"/tmp/fz3temp-1/config.core 4.php",
+		"/tmp/fz3temp-1/config.core 3.php",
+		"/tmp/fz3temp-1/config.core.php",
+		"/tmp/fz3temp-1/.htaccess",
+		"/tmp/fz3temp-1/config.inc 2.php",
+		"/tmp/fz3temp-1/config.core 2.php",
+		"/home/george/www/ts3.modx/assets/src/sass/100_footer.sass",
+		"/tmp/fz3temp-1/main.js",
+		"/tmp/fz3temp-1/main.min.css",
+		"/home/george/www/ts3.modx/assets/src/js/coffee/100_footer.coffee",
+		"/home/george/www/greatmeat.bramus.ru/Перенос/core/config/config.inc.php",
+		"/tmp/fz3temp-1/index.html",
+		"/tmp/fz3temp-1/newpamira.fullrange.ru.access.log",
+		"/tmp/fz3temp-1/hosts",
+		"/tmp/fz3temp-1/000-default.conf",
+		"/home/george/www/ts3.modx/assets/src/sass/010_main.sass",
+		"/home/george/www/ts3.modx/assets/src/css/100_footer.css",
+		"/tmp/fz3temp-1/layout.blade.php",
+		"/tmp/fz3temp-1/style.css",
+		"/tmp/fz3temp-1/layout.js",
+		"/tmp/fz3temp-1/product.js",
+		"/tmp/fz3temp-1/product_page.blade 2.php",
+		"/tmp/fz3temp-1/CatalogController.php",
+		"/home/george/www/boss-relax3.local/src/sass/020_general.sass",
+		"/tmp/fz3temp-1/CatalogsParametrs.php",
+		"/tmp/fz3temp-1/dealer.css",
+		"/tmp/fz3temp-1/actions.blade.php",
+		"/tmp/fz3temp-1/header.blade.php",
+		"/tmp/fz3temp-1/product_edit.blade.php",
+		"/home/george/www/boss-relax3.local/src/sass/010_main.sass",
+		"/home/george/www/boss-relax3.local/src/sass/110_services.sass",
+		"/home/george/www/boss-relax3.local/src/sass/100_news.sass",
+		"/home/george/www/ts3.modx/sitemap.xml",
+		"/home/george/www/boss-relax3.local/gulpfile.js",
+		"/home/george/www/boss-relax3.local/src/css/020_general.css",
+		"/tmp/fz3temp-1/sitemap.xml",
+		"/home/george/www/ts3.modx/robots.txt",
+		"/home/george/.config/sublime-text-3/Packages/User/Side Bar Folders.sublime-settings",
+		"/media/george/Media/passwords/Second Server Passwords.txt",
+		"/home/george/www/ts3.modx/assets/gulpfile.js",
+		"/tmp/fz3temp-1/product_template.blade.php",
+		"/tmp/fz3temp-1/catalog_page.blade.php",
+		"/tmp/fz3temp-1/catalog_page_test.blade.php",
+		"/tmp/fz3temp-1/dealer.less",
+		"/home/george/www/ts3.modx/assets/src/js/coffee/180_services_mini_page.coffee",
+		"/home/george/www/ts3.modx/assets/src/sass/060_trio_for_main_page_for_left.sass",
+		"/home/george/www/ts3.modx/assets/src/sass/120_services.sass",
+		"/home/george/www/ts3.modx/assets/src/sass/130_main.sass",
+		"/home/george/www/ts3.modx/assets/src/sass/170_about.sass",
+		"/home/george/www/ts3.modx/assets/src/sass/175_about_columns.sass",
+		"/home/george/www/ts3.modx/assets/src/sass/125_services_subservice.sass",
+		"/home/george/www/ts3.modx/assets/src/sass/030_navigation.sass",
+		"/home/george/www/pamira2.laravel/app/Providers/AppServiceProvider.php",
+		"/home/george/www/pamira2.laravel/config/database.php",
+		"/home/george/www/boss-relax3.local/src/js/coffee/050_slider.coffee",
+		"/home/george/www/boss-relax3.local/src/js/coffee/080_slider_panel_dot.coffee",
+		"/home/george/www/boss-relax3.local/src/js/coffee/030_header.coffee",
+		"/home/george/www/boss-relax3.local/src/js/coffee/040_nav.coffee",
+		"/home/george/www/boss-relax3.local/src/js/coffee/060_slider_buttons_left_right.coffee",
+		"/home/george/www/boss-relax3.local/src/js/coffee/070_slider_buttons_play_pause.coffee",
+		"/home/george/www/boss-relax3.local/src/js/coffee/100_photo_swipe.coffee",
+		"/home/george/www/boss-relax3.local/src/sass/090_page_for_masters.sass",
+		"/home/george/www/boss-relax3.local/src/js/coffee/090_page_for_masters.coffee",
+		"/home/george/www/boss-relax3.local/gallery.html",
+		"/home/george/www/boss-relax3.local/assets/templates/main/js/for_photo_swipe.js",
+		"/tmp/fz3temp-1/app.scss",
+		"/tmp/fz3temp-1/style.less",
+		"/tmp/fz3temp-1/product_haracteristic_field.blade.php",
+		"/tmp/fz3temp-1/participants_points_table.blade.php",
+		"/tmp/fz3temp-1/participants_points_grid.blade.php",
+		"/tmp/fz3temp-1/parse_xml.blade.php",
+		"/tmp/fz3temp-1/field.blade.php",
+		"/tmp/fz3temp-1/all.blade.php",
+		"/tmp/fz3temp-1/dataform.blade.php",
+		"/tmp/fz3temp-1/datagrid.blade.php",
+		"/tmp/fz3temp-1/product_page.blade 3.php",
+		"/tmp/fz3temp-1/ButtonField.php",
+		"/tmp/fz3temp-1/But.php",
+		"/tmp/fz3temp-1/routes2.php",
+		"/tmp/fz3temp-1/database.php",
+		"/tmp/fz3temp-1/.env",
+		"/tmp/fz3temp-1/newpamira.fullrange.ru",
+		"/tmp/fz3temp-1/newpamira.fullrange.ru.error.log",
+		"/tmp/fz3temp-1/.htaccess 2",
+		"/tmp/fz3temp-1/.htaccess 3",
+		"/tmp/fz3temp-1/popups.blade.php",
+		"/tmp/fz3temp-1/nullcatalog.blade.php",
+		"/tmp/fz3temp-1/nullcat.blade.php",
+		"/tmp/fz3temp-1/slider.blade.php",
+		"/tmp/fz3temp-1/search_page.blade.php",
+		"/tmp/fz3temp-1/sales.blade.php",
+		"/tmp/fz3temp-1/footer.blade.php",
+		"/tmp/fz3temp-1/compare_template.blade.php",
+		"/tmp/fz3temp-1/catalog_c.blade.php",
+		"/tmp/fz3temp-1/cart_template.blade.php",
+		"/tmp/fz3temp-1/news_page.blade.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"marginSaveForm",
+			"marginCre",
+			"dealer/margin",
+			"brand_margin",
+			"ОПТ",
+			"getCostWithMargin",
+			"25",
+			"/home/g/grandmeat/grandmeat.ru/public_html",
+			"[\"viewInfoForProvider\"]",
+			"show",
+			"mark",
+			"settype",
+			"format",
+			"ащкьфе",
+			"getFormatCost",
+			"product_page",
+			"view",
+			"цена",
+			"line-",
+			"{",
+			"table",
+			"bg",
+			"background",
+			"p",
+			"product",
+			"h3",
+			"producr_header",
+			"product",
+			"Другие",
+			".dealer_menu ul li a",
+			"dealer_menu",
+			".catalog",
+			".menu",
+			"sales",
+			"sal",
+			"sale",
+			"sales",
+			"Лидер",
+			"sales",
+			"panel",
+			"Product",
+			"panel",
+			"panel/Prod",
+			"panel",
+			"sales",
+			"participal",
+			"prBWd54952xnCqp",
+			"sales_leader",
+			"Добавить",
+			"1",
+			"0px",
+			"Black",
+			"1px",
+			"0.1em",
+			"Проверка",
+			"'",
+			"span",
+			"border",
+			"style",
+			"assets/templates/main/",
+			"товар",
+			"Похожие",
+			"        ",
+			"button",
+			"0",
+			"button",
+			"0",
+			"logo",
+			"_footer",
+			"h_window",
+			"theme",
+			"width",
+			"px",
+			"side",
+			"references",
+			"task",
+			"user",
+			"zone",
+			"zone`",
+			"time",
+			"form",
+			"price",
+			"name",
+			"goods_id",
+			":one",
+			"element",
+			":",
+			"user",
+			"User",
+			"user",
+			"_",
+			"article",
+			"quarter",
+			"button",
+			"a",
+			"vendor",
+			"up",
+			"only",
+			"show",
+			"up",
+			"border",
+			"2px",
+			"medium",
+			"=",
+			"slim",
+			"tzble",
+			"d",
+			"bluegrey",
+			"padding",
+			"новости",
+			"contacts",
+			"grey",
+			"/var/www",
+			"голова",
+			"fill:none",
+			"stroke:none",
+			"pig",
+			"minitest"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/var/www/karp/data/www/grandmeat.bramus.ru",
+			"",
+			"_block_footer",
+			"/home/george/www",
+			"fill:#000000",
+			"stroke:#000000;stroke-opacity:1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1297,
+								1326
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 252.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/sass/020_general.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/sass/030_header.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80,
+								80
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/js/coffee/030_header.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"auto_name": "cap = $ '.cap'",
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/sass/200_footer.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffeecompile_output":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "toys-template.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"www/ts3.modx/assets/src/sass/170_about.sass"
+			],
+			[
+				"sass",
+				"~/www/ts2.local/src/sass/020_general.sass"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/www/password-and-other.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 360.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
