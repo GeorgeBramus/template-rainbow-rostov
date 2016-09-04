@@ -47,7 +47,22 @@
 <footer class="main-footer">
   <div class="row">
     <div class="small-12 columns">
-      Подвал
+
+    <div class="row">
+      <div class="small-12 medium-6 large-4 xlarge-3 columns">
+        Контакты
+      </div>
+      <div class="small-12 medium-6 large-4 xlarge-3 columns">
+        Бренды
+      </div>
+      <div class="small-12 medium-6 large-4 xlarge-3 columns">
+        Разделы
+      </div>
+      <div class="show-for-xlarge-only xlarge-3 columns">
+        Предложения
+      </div>
+    </div>
+
     </div>
   </div>
 </footer>
