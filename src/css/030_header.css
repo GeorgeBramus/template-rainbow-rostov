@@ -17,19 +17,19 @@
       font-family: "Roboto Slab", serif; }
     .main-header .cap span.letter-1 {
       transform: rotate(5deg);
-      background-color: #e57373; }
+      background-color: #f44336; }
     .main-header .cap span.letter-2 {
       transform: rotate(-7deg);
-      background-color: #ffb74d; }
+      background-color: #ff9800; }
     .main-header .cap span.letter-3 {
       transform: rotate(3deg);
       background-color: #ffeb3b; }
     .main-header .cap span.letter-4 {
       transform: rotate(-1deg);
-      background-color: #81c784; }
+      background-color: #4caf50; }
     .main-header .cap span.letter-5 {
       transform: rotate(7deg);
-      background-color: #29b6f6; }
+      background-color: #03a9f4; }
     .main-header .cap span.letter-6 {
       transform: rotate(-8deg);
-      background-color: #2196f3; }
+      background-color: #7986cb; }
