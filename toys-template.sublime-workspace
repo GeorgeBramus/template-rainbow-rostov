@@ -147,7 +147,7 @@
 			"file": "src/sass/030_header.sass",
 			"settings":
 			{
-				"buffer_size": 1127,
+				"buffer_size": 1123,
 				"line_ending": "Unix"
 			}
 		},
@@ -261,6 +261,7 @@
 	],
 	"file_history":
 	[
+		"/tmp/fz3temp-1/index.html",
 		"/home/george/www/toys.template/.gitignore",
 		"/home/george/www/toys.template/src/js/coffee/js/030_header.js",
 		"/home/george/www-passwords/GRANDMEAT",
@@ -304,7 +305,6 @@
 		"/tmp/fz3temp-1/main.min.css",
 		"/home/george/www/ts3.modx/assets/src/js/coffee/100_footer.coffee",
 		"/home/george/www/greatmeat.bramus.ru/Перенос/core/config/config.inc.php",
-		"/tmp/fz3temp-1/index.html",
 		"/tmp/fz3temp-1/newpamira.fullrange.ru.access.log",
 		"/tmp/fz3temp-1/hosts",
 		"/tmp/fz3temp-1/000-default.conf",
@@ -645,15 +645,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1127,
+						"buffer_size": 1123,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1007,
-								1007
+								765,
+								765
 							]
 						],
 						"settings":
@@ -809,7 +809,7 @@
 		[
 			[
 				"",
-				"~/www/ts3.modx/готовые_решения.sublime-project"
+				"~/www/password-and-other.sublime-project"
 			]
 		],
 		"width": 380.0
