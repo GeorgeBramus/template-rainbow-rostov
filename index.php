@@ -39,7 +39,7 @@
 <div class="content" role="main">
   <div class="row">
     <div class="small-12 columns">
-      Другое содержимое
+      Содержимое
     </div>
   </div>
 </div>
